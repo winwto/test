@@ -16,9 +16,9 @@ import com.jcraft.jsch.JSchException;
 import utils.JschUtils;
 
 /**
-* @author ×÷Õß
-* @version ´´½¨Ê±¼ä£º2018Äê4ÔÂ4ÈÕÉÏÎç11:06:35
-* ÀàËµÃ÷
+* @author ä½œè€…
+* @version åˆ›å»ºæ—¶é—´ï¼š2018å¹´4æœˆ4æ—¥ä¸Šåˆ11:06:35
+* ç±»è¯´æ˜
 */
 public class CalculaServlet extends HttpServlet {
 
